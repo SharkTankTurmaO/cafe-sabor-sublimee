@@ -14,7 +14,7 @@ h1, h2 {
 
 header.hero {
   position: relative;
-  background: url('imagens/lugar.jpg') center/cover no-repeat;
+  background: url('lugar.jpg') center/cover no-repeat;
   height: 100vh;
   color: #fff;
   display: flex;
